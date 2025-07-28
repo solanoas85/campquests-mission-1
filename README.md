@@ -1,18 +1,30 @@
+# 🏕️ CampQuests – Mission #1
+
+Welcome to **CampQuests**, a gamified quest experience built with the **Camp Network SDK** and hosted on **[SoQuest](https://soquest.xyz/space/CampQuests)**.
+
+> ✅ This is Mission #1: Mint your first onchain NFT on the **Base Testnet** and earn rewards by completing tasks integrated with Web3 tools.
 
 ---
 
-## 🧱 Smart Contract
+## 🎯 Mission Objective
 
-The NFT minting contract is written in Solidity (`^0.8.20`) and deployed using the Camp SDK.  
-It uses the [ERC1155](https://docs.openzeppelin.com/contracts/4.x/api/token/erc1155) standard.
+- **Goal:** Interact with a real smart contract on Base and mint a unique CampQuests NFT.
+- **Network:** Base Testnet  
+- **Reward:**  
+  - 🧩 1 CampQuests NFT  
+  - ✨ XP on SoQuest  
+  - 🎖️ Points on MySphere  
 
-```solidity
-contract CampQuestNFT is ERC1155, Ownable {
-    uint256 public constant QUEST = 0;
+---
 
-    constructor() ERC1155("https://campquests.example/metadata/{id}.json") {}
+## 🔗 Quick Links
 
-    function mint(address account, uint256 amount) public onlyOwner {
-        _mint(account, QUEST, amount, "");
-    }
-}
+- 🧠 CampQuests on SoQuest: [https://soquest.xyz/space/CampQuests](https://soquest.xyz/space/CampQuests)
+- 📜 Contract on Base Testnet: `0xb27A31f1b0AF2946B7F582768f03239b1eC07c2c`
+- 🏗️ Powered by: [Camp Network](https://camp.network)
+- 🛠️ Hosted by: [Port3 / SoQuest](https://soquest.xyz)
+
+---
+
+## 📦 Project Structure
+
