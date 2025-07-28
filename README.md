@@ -9,7 +9,7 @@ Participants interact with a real smart contract on the **Base Testnet** and min
 
 - **SoQuest Space**: [soquest.xyz/space/CampQuests](https://soquest.xyz/space/CampQuests)  
 - **Smart Contract**: [`0xb27A31f1b0AF2946B7F582768f03239b1eC07c2c`](https://basescan.org/address/0xb27A31f1b0AF2946B7F582768f03239b1eC07c2c)  
-- **Powered by**: [Camp Network](https://www.campnetwork.xyz) (https://www.campnetwork.xyz)
+- **Powered by**: https://www.campnetwork.xyz
 
 - **Hosted on**: [SoQuest / Port3](https://soquest.xyz)  
 - **Testnet Faucet**: [faucet.campnetwork.xyz](https://faucet.campnetwork.xyz)
