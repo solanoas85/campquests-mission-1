@@ -1,30 +1,45 @@
-# 🏕️ CampQuests – Mission #1
+# 🎯 CampQuests — Mission #1
 
-Welcome to **CampQuests**, a gamified quest experience built with the **Camp Network SDK** and hosted on **[SoQuest](https://soquest.xyz/space/CampQuests)**.
-
-> ✅ This is Mission #1: Mint your first onchain NFT on the **Base Testnet** and earn rewards by completing tasks integrated with Web3 tools.
-
----
-
-## 🎯 Mission Objective
-
-- **Goal:** Interact with a real smart contract on Base and mint a unique CampQuests NFT.
-- **Network:** Base Testnet  
-- **Reward:**  
-  - 🧩 1 CampQuests NFT  
-  - ✨ XP on SoQuest  
-  - 🎖️ Points on MySphere  
+CampQuests is a gamified quest built using the **Camp SDK** and hosted on **SoQuest**.  
+Participants interact with a real smart contract on the **Base Testnet** and mint their first onchain NFT.
 
 ---
 
-## 🔗 Quick Links
+## 🧠 Quick Links
 
-- 🧠 CampQuests on SoQuest: [https://soquest.xyz/space/CampQuests](https://soquest.xyz/space/CampQuests)
-- 📜 Contract on Base Testnet: `0xb27A31f1b0AF2946B7F582768f03239b1eC07c2c`
-- 🏗️ Powered by: [Camp Network](https://camp.network)
-- 🛠️ Hosted by: [Port3 / SoQuest](https://soquest.xyz)
+- **SoQuest Space**: [soquest.xyz/space/CampQuests](https://soquest.xyz/space/CampQuests)  
+- **Smart Contract**: [`0xb27A31f1b0AF2946B7F582768f03239b1eC07c2c`](https://basescan.org/address/0xb27A31f1b0AF2946B7F582768f03239b1eC07c2c)  
+- **Powered by**: [Camp Network](https://www.campnetwork.xyz)  
+- **Hosted on**: [SoQuest / Port3](https://soquest.xyz)  
+- **Testnet Faucet**: [faucet.campnetwork.xyz](https://faucet.campnetwork.xyz)
 
 ---
 
-## 📦 Project Structure
+## ⏰ Campaign Details
 
+- **Mission Title**: Mint your CampQuests NFT  
+- **Valid Period**: **July 28, 2025 – August 4, 2025** *(UTC-3)*  
+- **Network**: Base Testnet  
+- **Goal**: Interact with contract and mint NFT  
+- **Reward**: 1 unique CampQuests NFT, SoQuest XP, and MySphere points  
+
+---
+
+## 🧪 Technical Info
+
+This mission uses a smart contract based on the ERC-1155 standard, deployed with the Camp SDK.  
+The NFT metadata is hosted on IPFS, and minting is available during the campaign period only.
+
+---
+
+## 🏕️ :tent: Camp Network Socials
+
+- [Camp Twitter](https://x.com/campnetworkxyz)  
+- [Camp Eco Twitter](https://x.com/campnetworkeco)  
+- [TrailHeads Twitter](https://x.com/CampTrailHeads)  
+- [Telegram Community](https://t.me/CampNetworkCommunity)  
+- [LinkedIn](https://linkedin.com/company/campnetwork)
+
+---
+
+Let’s build onchain — the campfire is just getting started. 🧱🔥
